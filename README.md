@@ -63,7 +63,29 @@ D- the radiocarbon sample is within a 10 km radius’ buffer of the coordinates 
 E- the radiocarbon sample is within a 20 km radius’ buffer of the coordinates collected
 
 
-The literature used to compile the present dataset can be found in the file References.txt
+## Major contributing datasets/databases
+
+The literature used to compile the present dataset can be found in the file References.txt. However, NERD benefitted from the following existing digital online archives:
+
+* [ArAGATS Data Portal](https://aragats.gorgesapps.us/search?utf8=%E2%9C%93&t=Radiocarbon&c=code&d=asc)
+
+* [BANADORA. Banque Nationale de Données Radiocarbonne pour l'Europe et le Proche Orient, Centre de Datation par le Radiocarbonne.](http://www.arar.mom.fr/banadora/) Lyon: CNRS.  
+
+* Benz, M., 2014. [PPND - the Platform for Neolithic Radiocarbon Dates](https://www.exoriente.org/associated_projects/ppnd.php) 
+
+* Böhner, U., and Schyle, D., 2006. [Radiocarbon CONTEXT database 2002-2006](http://context-database.uni-koeln.de/)
+
+* [CalPal - The Cologne Radiocarbon Calibration & Palaeoclimate Research Package.](https://uni-koeln.academia.edu/BernhardWeninger/CalPal) Developed by Weninger, B., Jöris, O., and Danzeglocke, U.
+
+* Hinz, M., Furholt, M., Müller, J., Raetzel-Fabian, D., Rinne, C.,  Sjögren, K. G., and Wotzka,H. P., 2012. [RADON - Radiocarbon dates online 2012. Central European database of 14C dates for the Neolithic and Early Bronze Age. Journal of Neolithic Archaeology, 14, 1-4](http://radon.ufg.uni-kiel.de/) 
+
+* [IRPA/KIK. Royal Institute for Cultural Heritage web based Radiocarbon database.](http://c14.kikirpa.be/) Van Strydonck, M. and De Roock, E., 2011. Royal Institute for Cultural Heritage web-based radiocarbon database. Radiocarbon, 53(2), pp.367-370. 
+
+* [ORAU. Oxford Radiocarbon Accelerator Unit online database.](https://c14.arch.ox.ac.uk/database/db.php) Oxford: University of Oxford.
+
+* Reingruber, A., and Thissen, L., 2016. [The 14SEA Project. A 14C database for Southeast Europe and Anatolia (10,000–3000calBC).](http://www.14sea.org/2_dates.html)
+
+* [TAY Project 14C sample Database](http://tayproject.org/C14searcheng.html) 
 
 
 ## Licence
@@ -76,28 +98,28 @@ https://github.com/apalmisano82/NERD
 
 ## Case studies using NERD
 
-Lawrence, D., Palmisano, A., & Gruchy, M. W. de., 2021. [Collapse and continuity: A multi-proxy reconstruction of settlement organization and population trajectories in the Northern Fertile Crescent during the 4.2kya Rapid Climate Change event](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244871). PLOS ONE, 16(1), e0244871.
+* Lawrence, D., Palmisano, A., & Gruchy, M. W. de., 2021. [Collapse and continuity: A multi-proxy reconstruction of settlement organization and population trajectories in the Northern Fertile Crescent during the 4.2kya Rapid Climate Change event](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244871). PLOS ONE, 16(1), e0244871.
 
-Palmisano, A., Woodbridge, J., Roberts, N., Bevan, A., Fyfe, R., Shennan, S., et al. 2019. [Holocene landscape dynamics and long-term population trends in the Levant.](https://doi.org/10.1177%2F0959683619826642) The Holocene,29(5), 708-727. 
+* Palmisano, A., Woodbridge, J., Roberts, N., Bevan, A., Fyfe, R., Shennan, S., et al. 2019. [Holocene landscape dynamics and long-term population trends in the Levant.](https://doi.org/10.1177%2F0959683619826642) The Holocene,29(5), 708-727. 
 
-Palmisano, A., Lawrence, D., de Gruchy, M. W., Bevan, A., & Shennan, S., 2021. [Holocene regional population dynamics and climatic trends in the Near East: A first comparison using archaeo-demographic proxies.](https://doi.org/10.1016/j.quascirev.2020.106739) Quaternary Science Reviews, 252, 106739.
+* Palmisano, A., Lawrence, D., de Gruchy, M. W., Bevan, A., & Shennan, S., 2021. [Holocene regional population dynamics and climatic trends in the Near East: A first comparison using archaeo-demographic proxies.](https://doi.org/10.1016/j.quascirev.2020.106739) Quaternary Science Reviews, 252, 106739.
 
-Roberts, N., Woodbridge, J., Bevan, A., Palmisano, A., Shennan, S., & Asouti, E. 2018. [Human responses and non-responses to climatic variations during the last Glacial-Interglacial transition in the eastern Mediterranean.](https://doi.org/10.1016/j.quascirev.2017.09.011) Quaternary Science Reviews, 184, 47-67.
+* Roberts, N., Woodbridge, J., Bevan, A., Palmisano, A., Shennan, S., & Asouti, E. 2018. [Human responses and non-responses to climatic variations during the last Glacial-Interglacial transition in the eastern Mediterranean.](https://doi.org/10.1016/j.quascirev.2017.09.011) Quaternary Science Reviews, 184, 47-67.
 
-Roberts, N., Woodbridge, J., Palmisano, A., Bevan, A., Fyfe, R., & Shennan, S. 2019. [Mediterranean landscape change during the Holocene: Synthesis, comparison and regional trends in population, land cover and climate.]( https://doi.org/10.1177%2F0959683619826697). The Holocene, 29(5), 923-937.
+* Roberts, N., Woodbridge, J., Palmisano, A., Bevan, A., Fyfe, R., & Shennan, S. 2019. [Mediterranean landscape change during the Holocene: Synthesis, comparison and regional trends in population, land cover and climate.]( https://doi.org/10.1177%2F0959683619826697). The Holocene, 29(5), 923-937.
 
-Woodbridge, J., Roberts, C. N., Palmisano, A., Bevan, A., Shennan, S., Fyfe, R., et al. 2019. [Pollen-inferred regional vegetation patterns and demographic change in Southern Anatolia through the Holocene.](https://doi.org/10.1177%2F0959683619826635) The Holocene, 29(5),728-741. 
+* Woodbridge, J., Roberts, C. N., Palmisano, A., Bevan, A., Shennan, S., Fyfe, R., et al. 2019. [Pollen-inferred regional vegetation patterns and demographic change in Southern Anatolia through the Holocene.](https://doi.org/10.1177%2F0959683619826635) The Holocene, 29(5),728-741. 
 
 ## Grants
 
 The archive NERD was collated thanks to the following grants:
 
-[Changing the Face of The Mediterranean: Land cover and population since the advent of farming.](https://www.plymouth.ac.uk/research/centre-for-research-in-environment-and-society-ceres/changing-the-face-of-the-mediterranean-land-cover-and-population-since-the-advent-of-farming) Leverhulme Trust, grant number:
+* [Changing the Face of The Mediterranean: Land cover and population since the advent of farming.](https://www.plymouth.ac.uk/research/centre-for-research-in-environment-and-society-ceres/changing-the-face-of-the-mediterranean-land-cover-and-population-since-the-advent-of-farming) Leverhulme Trust, grant number:
 RPG-2015-031. Grant holders: Neil Roberts (PI), Andrew Bevan (Co-I), Ralph Fyfe (Co-I), & Stephen Shennan (Co-I). 
 
-[CLaSS - Climate, Landscape, Settlement and Society: Exploring Human-Environment Interaction in the Ancient Near East.](https://classerc.wordpress.com/the-project/) European Research Council, grant number: 802424. Grant holder: Dan Lawrence (PI).
+* [CLaSS - Climate, Landscape, Settlement and Society: Exploring Human-Environment Interaction in the Ancient Near East.](https://classerc.wordpress.com/the-project/) European Research Council, grant number: 802424. Grant holder: Dan Lawrence (PI).
 
-[Alexander von Humboldt Research Fellowship.](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) Grant holder: Alessio Palmisano.
+* [Alexander von Humboldt Research Fellowship.](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) Grant holder: Alessio Palmisano.
 
 
 ![logos](https://user-images.githubusercontent.com/13691742/113167424-00930a80-9244-11eb-86cd-6833705cca42.png)
