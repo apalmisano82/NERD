@@ -128,5 +128,3 @@ RPG-2015-031. Grant holders: Neil Roberts (PI), Andrew Bevan (Co-I), Ralph Fyfe 
 ![logos](https://user-images.githubusercontent.com/13691742/113167424-00930a80-9244-11eb-86cd-6833705cca42.png)
 
 
-## Contributors
-[Joe Roe](https://github.com/joeroe)
