@@ -1,6 +1,6 @@
 # NERD (Near East Radiocarbon Dates) 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4668758.svg)](https://doi.org/10.5281/zenodo.4668758) 
+[![DOI](https://zenodo.org/badge/353298217.svg)](https://zenodo.org/badge/latestdoi/353298217)  
 
 #### Alessio Palmisano, Andrew Bevan, Dan Lawrence & Stephen Shennan 
 
@@ -96,7 +96,7 @@ The literature used to compile the present dataset can be found in the file Refe
 The NERD dataset is made available under the [Creative Common License CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## How to cite
-Palmisano, A., Bevan, A., Lawrence, D., & Shennan, S., 2021. "NERD: Near East Radiocarbon Dates", version 1.0 (1 April 2021): 
+Palmisano, A., Bevan, A., Lawrence, D., & Shennan, S., 2021. "NERD: Near East Radiocarbon Dates", version 3.0 (7 April 2021): 
 https://github.com/apalmisano82/NERD
 
 ## Case studies using NERD
