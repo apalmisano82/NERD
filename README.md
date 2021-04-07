@@ -4,7 +4,7 @@
 
 #### Alessio Palmisano, Andrew Bevan, Dan Lawrence & Stephen Shennan 
 
-The archive NERD provides a collation of 10,637 radiocarbon dates from 997 archaeological sites in the Near East from the Late Pleistocene until the Late Holocene (ca. 14 - 2 kya). These dates have been collected from existing online digital archives, and electronic and print original publications. This is an ongoing dataset that will be updated step by step with new published radiocarbon dates. 
+The archive NERD provides a collation of 10,647 radiocarbon dates from 999 archaeological sites in the Near East from the Late Pleistocene until the Late Holocene (ca. 14 - 2 kya). These dates have been collected from existing online digital archives, and electronic and print original publications. This is an ongoing dataset that will be updated step by step with new published radiocarbon dates. 
 
 ![map](https://user-images.githubusercontent.com/13691742/113256324-5362d580-92c9-11eb-87e7-1e679bf34395.png)
 
@@ -128,4 +128,5 @@ RPG-2015-031. Grant holders: Neil Roberts (PI), Andrew Bevan (Co-I), Ralph Fyfe 
 ![logos](https://user-images.githubusercontent.com/13691742/113167424-00930a80-9244-11eb-86cd-6833705cca42.png)
 
 
-
+## Contributors
+[Joe Roe](https://github.com/joeroe)
