@@ -1,6 +1,6 @@
 # NERD (Near East Radiocarbon Dates) 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4668758.svg)](https://doi.org/10.5281/zenodo.4668758)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4668758.svg)](https://doi.org/10.5281/zenodo.4668758) 
 
 #### Alessio Palmisano, Andrew Bevan, Dan Lawrence & Stephen Shennan 
 
