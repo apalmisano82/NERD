@@ -6,7 +6,7 @@
 
 The archive NERD provides a collation of 10,647 radiocarbon dates from 999 archaeological sites in the Near East from the Late Pleistocene until the Late Holocene (ca. 14 - 2 kya). These dates have been collected from existing online digital archives, and electronic and print original publications. This is an ongoing dataset that will be updated step by step with new published radiocarbon dates. 
 
-![Fig1](https://user-images.githubusercontent.com/13691742/144894265-33a1d9a9-e997-4995-8640-300155b561a3.png)
+![Fig1](https://user-images.githubusercontent.com/13691742/145008520-0f69958d-6f5b-45ff-882f-8b78c758c233.png)
 
 
 
