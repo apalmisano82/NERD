@@ -27,6 +27,8 @@ TAY Project 14C sample Database: http://tayproject.org/C14searcheng.html
 
 Aardsma, G. E., 2001. New radiocarbon dates from the reed mat from the Cave of the Treasure. Radiocarbon, 43, 1247–54.
 
+ABE, M., & UESUGI, A., 2021. RECONSIDERING THE DATE OF RIFFA TYPE BURIAL MOUNDS IN THE EARLY DILMUN PERIOD: NEW RADIOCARBON DATA FROM WADI AL-SAIL, BAHRAIN. ラーフィダーン= رافيديرن= Al-Rafidan: journal of Western Asiatic studies, 42, 75-85.
+
 Abedi, A. and Omrani, B., 2015. Kura-Araxes culture and North-Western Iran: New perspectives from Kul Tepe Jolfa (Hadishahr). Paléorient, 41(1), 55-68.
 
 Abedi, A., 2016. Absolute (14C AMS) and relative chronology of Dava Göz Khoy; new evidence of transitional chalcolithic, Dalma and Pisdeli cultures in NW IRAN. Journal of Research on Archaeometry, 2(1), 39-54.
@@ -147,7 +149,9 @@ Bar-Yosef, O., Belfer-Cohen, A., Mesheviliani, T., Jakeli, N., Bar-Oz, G., Boare
 
 Barzilai, O., Rebollo, N., Nadel, D., Bocquentin, F., Yeshurun, R., Lengyel, G., Bermatov-Paz, G., and Boaretto, E., 2017. Radiocarbon dating of human burials from Raqefet Cave and contemporaneous Natufian traditions at Mount Carmel. Antiquity, 91(359), 1137-1154.
 
+Bedianashvili, G., Jamieson, A., & Sagona, C., 2021. THE EARLY KURGAN PERIOD IN RABATI, GEORGIA: THE CULTURAL SEQUENCE AND A NEW SUITE OF RADIOCARBON DATES. Radiocarbon, 1-41.
 Belfer-Cohen, A., 1988. The Natufian graveyard in Hayonim cave. Paléorient, 14(2), 297-308.
+
 Belfer-Cohen, A. and Goring-Morris, A.N., 2005. Which way to look? conceptual frameworks for understanding Neolithic processes. Dialogue on the Early Neolithic origin of ritual centers. Neo-Lithics 2(05), pp.22-24. 
 
 Benecke, N., 2009. On the beginning of horse husbandry in the southern Balkan peninsula – the horses from Kirklareli-Kalingeçit (Turkish Thrace). Tüba-Ar, 12, 13-24. 
@@ -268,6 +272,8 @@ Burton, M., and Levy, T.E., 2001. The Chalcolithic radiocarbon record and its us
 Burton, M. and Levy, T.E., 2011. The end of the Chalcolithic period (4500–3600) in the northern Negev Desert, Israel. In: J. L. Lovell and Y. M. Rowan (Eds.), Culture, Chronology and the Chalcolithic. Theory and Transition. Oxford: Oxbow, 178-191.
 Butomo, S.V., 1965. Radiocarbon Dating in the Soviet Union 1. Radiocarbon, 7, pp.223-228.
 
+Burton, M. M., Quinn, P. S., Bennallack, K., Farahani, A., Howland, M. D., Najjar, M., & Levy, T. E. (2021). Ceramic technology at Wadi Fidan 61, an early Pottery Neolithic site (ca. 6500 BCE) in the Faynan region of southern Jordan. Journal of Archaeological Science: Reports, 38, 103029.
+
 Byrd, B.F., 1988. The Natufian of Beidha: report on renewed field research. In. A. Garrard (ed.), The Prehistory of Jordan: The State of Research in 1986 (Bar International Series 396). Oxford: BAR, p.175-196. 
 
 Byrd, B.F., 1989. The Natufian: settlement variability and economic adaptations in the Levant at the end of the Pleistocene. Journal of World Prehistory 3(2), pp.159-197.
@@ -308,6 +314,8 @@ Carter, R., and Crawford, H., 2002. The Kuwait-British archaeological expedition
 
 Carter, T., Le Bourdonnec, F.X., Poupeau, G., Kartal, M., Calligaro, T. and Moretto, P., 2011. Marginal perspectives: sourcing epi-palaeolithic to chalcolithic obsidian from the Öküzini cave (SW Turkey). Paléorient 37, pp.123-149.
 
+Carter, R., Wengrow, D., Saber, S. A., Hamarashi, S. J., Shepperson, M., Roberts, K., ... & Lockyear, K., 2020. THE LATER PREHISTORY OF THE SHAHRIZOR PLAIN, KURDISTAN REGION OF IRAQ: FURTHER INVESTIGATIONS AT GURGA CHIYA AND TEPE MARANI. Iraq, 82, 41-71.
+
 Castellano, L., 2018. Staple Economies and Storage in Post-Hittite Anatolia: Considerations in Light of New Data from Niğde-Kınık Höyük (Southern Cappadocia). Journal of Eastern Mediterranean Archaeology & Heritage Studies, 6(4), 259-284.
 
 Cauvin, M., 1972. Sondage à Tell Assouad (Djezireh, Syrie). Annales Archéologiques Arabes Syriennes. Revue d'Archéologie et d'Histoire, 22(1-2), pp. 85-103.
@@ -321,6 +329,8 @@ Cauvin, M.C., Helmer, D. and Deraprahamian, G., 1987. Grattoirs à pans coupés 
 Cessford, C., 2001. A new dating sequence for Çatalhöyük. Antiquity, 75, 717–725.
 
 Cessford C. 2005. Absolute dating at Çatalhöyük. In Changing Materialities Çatalhöyük: Reports from the 1995–1999 Seasons, ed. I Hodder, pp. 65–100. Cambridge, UK: McDonald Institute. 
+
+Çevik, Ö., & Erdoğu, B., 2020. ABSOLUTE CHRONOLOGY OF CULTURAL CONTINIUTY, CHANGE AND BREAK IN WESTERN ANATOLIA BETWEEN 6850-5460 CAL. BC: THE ULUCAK HÖYÜK CASE. Mediterranean Archaeology & Archaeometry, 13(1).
 
 Chataigner, C., 1995. La Transcaucasie au Néolithique et au Chalocolithique. (BAR International series 624). Oxford: Tempus Reparatum.
 
@@ -378,6 +388,8 @@ Danti, M.D., and Zettler, R.L., 2007. The Early Bronze Age in the Syrian northwe
 Darabi, H., Naseri, R., Young, R. and Nashli, H.F., 2011. The absolute chronology of east Chia Sabz: a pre-pottery Neolithic site in Western Iran. Documenta Praehistorica, 38, pp.255-266.
 
 Darabi, H., Fazeli, H., Naseri, R., Riehl, S., Young, R., Matthews, R., 2013. The Neolithisation process in the Seimarreh Valley: excavations at East Chia Sabz, Central Zagros, in: Matthews, R., Fazeli Nashli, H. (Eds.), The Neolithisation of Iran. Oxbow Books, Oxford, pp. 55–75.
+
+Darabi, H., Bangsgaard, P., Arranz-Otaegui, A., Ahadi, G., & Olsen, J., 2021. Early Neolithic occupation of the lowlands of south-western Iran: new evidence from Tapeh Mahtaj. Antiquity, 95(379), 27-44.
 
 Darabi, H., 2015. An Introduction to the Neolithic Revolution of the Central Zagros, Iran, BAR International Series. Archaeopress, Oxford.
 
@@ -468,6 +480,8 @@ Eimermann, E., 2008. Soundings at Early Bronze Age Hacılartepe: Stratigraphy, p
 
 Erb-Satullo, N.L., Gilmour, B.J., and Khakhutaishvili, N., 2018. The ebb and flow of copper and iron smelting in the South Caucasus. Radiocarbon, 60(1), 159-180.
 
+Erb-Satullo, N. L., Jachvliani, D., Kalayci, T., Puturidze, M., & Simon, K. (2019). Investigating the spatial organisation of Bronze and Iron Age fortress complexes in the South Caucasus. antiquity, 93(368), 412-431.
+
 Erdoğu, B., 2003. Visualizing Neolithic landscape: the early settled communities in western Anatolia and eastern Aegean islands. European Journal of Archaeology, 6(1), pp.7-23.
 
 Erdoğu, B., 2011. A Preliminary Report from the 2009 and 2010 Field Seasons at Uğurlu on the Island of Gökçeada. Anatolica, 37, pp.45-65.
@@ -487,6 +501,8 @@ Esin, U.,1995. Early copper metallurgy at the pre-pottery site of Aşıklı. Rea
 Évin, J., and, Stordeur, D., 2008. Chronostratigraphie de Mureybet. Apports des datations.
 
 Fairbairn, A.S., Jenkins, E., Baird, D. and Jacobsen, G., 2014. 9th millennium plant subsistence in the central Anatolian highlands: new evidence from Pınarbaşı, Karaman Province, central Anatolia. Journal of Archaeological Science, 41, pp.801-812.
+
+Fairbairn, A., Jacobsson, P., Baird, D., Jacobsen, G., & Stroud, E., 2020. Settlement change on the western Konya Plain: refining Neolithic and Chalcolithic chronologies at Canhasan, Turkey. Antiquity, 94(374), 342-360.
 
 Falconer, S.E. and Fall, P.L., 2016. A radiocarbon sequence from Tell Abu en-Ni ‘aj, Jordan and its implications for Early Bronze IV chronology in the Southern Levant. Radiocarbon 58(3), 615-647.
 
@@ -523,7 +539,11 @@ Fishman, B., and Lawn, B., 1978. University of Pennsylvania radiocarbon dates XX
 
 Flohr, P., Fleitmann, D., Matthews, R., Matthews, W. and Black, S., 2016. Evidence of resilience to past climate change in Southwest Asia: Early farming communities and the 9.2 and 8.2 ka events. Quaternary Science Reviews 136, 23-39.
 
+Flohr, P., Matthews, R., Matthews, W., Richardson, A., & Fleitmann, D., 2020. Radiocarbon dating of Bestansur and Shimshara. In: Matthews, R., Matthews, W., Raheem, K. R., & Richardson, A. (Eds.), The Early Neolithic of the Eastern Fertile Crescent: Excavations at Bestansur and Shimshara, Iraqi Kurdistan (Vol. 2). Oxbow Books, 187-195.
+
 Fuensanta, J. G., Rothman, M. S., Charvàt, P., and Bucak, E., 2002. Tilbes Hoyük Salvage Project. 23. Kazı Sonuçları Toplantısı, 1, 131–144.
+
+Fuensanta, J. G., Martín, A. M., & Muminov, O. U., 2020. On the Post‑Ubaid stratigraphy and complex architecture of the Birecik Dam Area (Turkish Euphrates): Surtepe and Tilbes‑Körche Late Chalcolithic 1 levels Estratigrafía Post‑Ubaid y arquitectura compleja. Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid, (46), 11-44.
 
 Gabriel, U., 2000. Mitteilung zum Stand der Neolithikumsforschung in der Umgebung von Troia (Kumtepe 1993–1995; Besik-Sivritepe 1983–1984, 1987, 1998–1999). Studia Troica, 10, pp.233-238.
 
@@ -551,6 +571,8 @@ Gerritsen, F., Özbal, R., and Thissen, L., 2013b. Barcın Höyük. The beginnin
 
 Ghaleb A. O., 1990. Agricultural practices in ancient Radwan and Wadi Al-Jubah (Yemen). Ph.D. Dissertation, University of Pennsylvania, Philadelphia, 521 pp.
 
+Giaime, M., Jol, H. M., Salmon, Y., López, G. I., abu Hamid, A., Bergevin, L., ... & Artzy, M. (2021). Using a multi-proxy approach to locate the elusive Phoenician/Persian anchorage of Tel Akko (Israel). Quaternary International.
+
 Gibbs, K., Kadowaki, S. and Banning, E.B., 2010. Excavations at al-Basatin, a late Neolithic and Early Bronze I site in Wadi Ziqlab, northern Jordan. Annual of the Department of Antiquities of Jordan 54, pp.461-476.
 
 Gilboa, A., and Sharon, I., 2003. An archaeological contribution to the Early Iron Age chronological debate: alternative chronologies for Phoenicia and their effects on the Levant, Cyprus, and Greece. Bulletin of the American Schools of Oriental Research, 332(1), 7-80.
@@ -560,6 +582,8 @@ Gilead, I., 1988. The Chalcolithic period in the Levant. Journal of World Prehis
 Gilead, I., 1991. The upper Paleolithic period in the Levant. Journal of World Prehistory 5(2), 105-154.
 
 Glatz, C., Casana, J., Bendrey, R., Baysal, E., Calderbank, D., Chelazzi, F., Del Bravo, F., Erskine, N., Hald, M.M., Laugier, E.J., and Jensen, E., 2019. Babylonian Encounters in the Upper Diyala River Valley: Contextualizing the Results of Regional Survey and the 2016–2017 Excavations at Khani Masi. American Journal of Archaeology, 123(3), 439-471.
+
+Gmińska-Nowak, B., D'Agostina, A., Özarslan, Y., Orsi, V., Christopoulou, A., Mazzoni, S., Akkemik, U., and Ważny, T., 2021. Dendrochronological analysis and radiocarbon dating of charcoal remains from the multi-period site of Uşaklı Höyük, Yozgat, Turkey. Journal of Archaeological Science: Reports, 38, 103078.
 
 Göktürk, E.H., Hillegonds, D.J., Lipschutz, M.E. and Hodder, I., 2002. Accelerator mass spectrometry dating at Çatalhöyük. Radiochimica Acta, 90(7), pp.407-410.
 
@@ -649,6 +673,8 @@ Henry, D.O., Cordova, C., White, J.J., Dean, R.M., Beaver, J.E., Ekstrom, H., Ka
 
 Hermansen, B.D., Thuesen, I., Jensen, C.H., Kinzel, M., Petersen, M.B., Jørkov, M.L. and Lynnerup, N., 2006. Shkarat Msaied: The 2005 Season of Excavations.
 
+Hessari, M., Bernbeck, R., & Pollock, S., 2021. A Brief Report on New Radiocarbon Dates from Tappeh Sofalin, Pishva, Iran. مطالعات باستان شناسی, 12(4), 49-61.‎
+
 Higham, T. F. G., Bronk Ramsey, C., Brock, F., Baker, D., & Ditchfield, P., 2007. Radiocarbon dates from the oxford ams system: archaeometry datelist 32. Archaeometry 49(S1), 1-60.
 
 Higham, T. F. G., Bronk Ramsey, C., Chivall, D., Graystone, J., Baker, D., Henderson, E., and Ditchfield, P., 2018. Radiocarbon Dates from the Oxford AMS System: Archaeometry Datelist 36. Archaeometry, 60(3), 628-640.  
@@ -705,6 +731,8 @@ Jull, A. J. T., Donahue, D. J., Carmi, I, and Segal, D., 1998. In: Schick, T., 1
 
 Jungner, H., and Sonninen, E., 1989. Radiocarbon dates III. Report no. 3, Dating Laboratory, University of Helsinki, ISBN 951-45-5197-4.
 
+Kabukcu, C., Asouti, E., Pöllath, N., Peters, J., & Karul, N., 2021. Pathways to plant domestication in Southeast Anatolia based on new data from aceramic Neolithic Gusir Höyük. Scientific reports, 11(1), 1-15.
+
 Kadowaki, S., Gibbs, K., Allentuck, A. and Banning, E.B., 2008. Late Neolithic Settlement in Wadi Ziqlab, Jordan: al-Basatîn. Paléorient 34 (1), pp.105-129.
 
 Kafafi, Z., 1993. The Yarmoukians in Jordan. Paléorient 19(1), 101-114.
@@ -728,6 +756,8 @@ Kavtaradze, G., 1981: Kronologiia arkheologicheskikh kul'tur Gruzii epokhi eneol
 Kealhofer, L., Grave, P., and Voigt, M.M., 2019. Dating Gordion: the Timing and Tempo of Late Bronze and Early Iron Age Political Transformation. Radiocarbon, 61(2), 495-514.
 
 Keller, D.R., Porter, B.A. and Tuttle, C.A., 2012. Archaeology in Jordan, 2010 and 2011 seasons. American Journal of Archaeology, 116(4), pp.693-750.
+
+Kennedy, M. A., McMahon, J., Thomas, H., Boyer, D. D., Repper, R., Dalton, M., & AlKhaldi, K., 2021. Dating the pendant burials of north‐west Arabia: First radiometric results from the Khaybar Oasis, Saudi Arabia. Arabian Archaeology and Epigraphy, 32, 183-197.
 
 Kepinski-Lecomte, C., and Ergeç, R., 1999. Tilbeshar 1998. Anatolia antiqua. Eski Anadolu, 7(1), 245-251.
 
@@ -818,6 +848,12 @@ and G. E. Wright (Eds.), American Expedition to Idalion, Cyprus. First Prelimina
 Seasons of 1971 and 1972., pp. 94–103. Massachusetts: The American School of Oriental
 Research.
 
+Lev, R., Shalev, O., Regev, J., Paz, Y., & Boaretto, E., 2020. Bridging the gap EBIII-IBA: early intermediate Bronze radiocarbon dates from Khirbat el-’Alya Northeast, Israel. Radiocarbon, 62(6), 1637-1649.
+
+Lev, R., Bechar, S., & Boaretto, E., 2021A. Hazor EB III city abandonment and IBA people return: radiocarbon chronology and its implications. Radiocarbon, 63(5), 1453-1469.
+
+Lev, R., Bechar, S., Covello-Paran, K., & Boaretto, E., 2021B. Absolute chronology of Black Wheel Made Ware in the southern Levant and its synchronization with the northern Levant. Levant, 1-13.
+
 Levy, T.E., Higham, T., Ramsey, C.B., Smith, N.G., Ben-Yosef, E., Robinson, M., Münger, S., Knabb, K., Schulze, J.P., Najjar, M. and Tauxe, L., 2008. High-precision radiocarbon dating and historical biblical archaeology in southern Jordan. Proceedings of the National Academy of Sciences, 105(43), pp.16460-16465.
 
 Libby, W.F., 1955. Radiocarbon dating. Chemistry in Britain, 5(12), pp.548-552.
@@ -847,6 +883,8 @@ Lyonnet, B., Guliyev, F., Helwing, B., Aliyev, T., Hansen, S. and Mirtskhulava, 
 Lyonnet, B., Guliyev, F., Bouquet, L., Bruley-Chabot, G., Samzun, A., Pecqueur, L., Jovenet, E., Baudouin, E., Fontugne, M., Raymond, P., and Degorre, E., 2016. Mentesh Tepe, an early settlement of the Shomu-Shulaveri Culture in Azerbaijan. Quaternary International, 395,
 170-183.
 
+Maeda, O., 2018. Lithic analysis and the transition to the Neolithic in the Upper Tigris Valley: recent excavations at Hasankeyf Höyük. antiquity, 92(361), 56-73.
+
 Magee, P., Händel, M., Karacic, S., Uerpmann, M., and Uerpmann, H.P., 2017. Tell Abraq during the second and first millennia BC: site layout, spatial organisation, and economy. Arabian Archaeology and Epigraphy, 28(2), 209-237.
 
 Mahasneh, H.M., 1997. The 1995 season at the Neolithic site of es-Sifiya, Wadi Mujib, Jordan. The prehistory of Jordan, II. Perspectives from, 1997, pp.203-214.
@@ -866,6 +904,10 @@ Manning, S.W., McCartney, C., Kromer, B. and Stewart, S.T., 2010. The earlier Ne
 Manning, S.W., Kromer, B., Rose, C.B., and Darbyshire, G., 2011. Radiocarbon dating Iron Age Gordion and the early Phrygian destruction in particular. In: K. DeVries, B. Kromer, P. I. Kuniholm, S. Manning, M. W. Newton, G. K. SamS, and M. M. Voigt MM (Eds.), The chronology of Iron Age Gordion. Philadelphia: University of Pennsylvania Museum Press,  23–53.
 
 Manning, S.W., Smith, A.T., Khatchadourian, L., Badalyan, R., Lindsay, I., Greene, A., and Marshall, M., 2018. A new chronological model for the Bronze and Iron Age South Caucasus: radiocarbon results from Project ArAGATS, Armenia. antiquity, 92(366), 1530-1551.
+
+Manning, S. W., Lorentzen, B., Welton, L., Batiuk, S., & Harrison, T. P., 2020. Beyond megadrought and collapse in the Northern Levant: The chronology of Tell Tayinat and two historical inflection episodes, around 4.2 ka BP, and following 3.2 ka BP. PloS one, 15(10), e0240799.
+
+Manuelli, F., Vignola, C., Marzaioli, F., Passariello, I., & Terrasi, F., 2021. THE BEGINNING OF THE IRON AGE AT ARSLANTEPE: A 14C PERSPECTIVE. Radiocarbon, 1-19.
 
 Manzo, A., 2005. The stratigraphic sequence at Yala (Yemen): a statistical evaluation. Radiocarbon, 47(1), 147-158.
 
@@ -887,6 +929,10 @@ Marro, C., Bakhshaliyev, V. and Ashurov, S., 2011. Excavations at Ovcular Tepesi
 
 Marro, C., Berthon, R., and Bakhshaliyev, V., 2014. On the genesis of the Kura-Araxes phenomenon: new evidence from Nakhchivan (Azerbaijan). Paléorient, 40(2), 131-154.
 Marshall, J. L., 2012. Missing Links: Demic diffusion and the development of agriculture on the Central Iranian Plateau (PhD thesis published online). Durham University.
+
+Marston, J. M., Kováčik, P., & Schoop, U. D., 2021. Environmental reconstruction and wood use at late Chalcolithic Çamlıbel Tarlası, Turkey. Quaternary International, 593, 178-194.
+
+Martin, L., Messager, E., Bedianashvili, G., Rusishvili, N., Lebedeva, E., Longford, C., ... & Herrscher, E., 2021. The place of millet in food globalization during Late Prehistory as evidenced by new bioarchaeological data from the Caucasus. Scientific Reports, 11(1), 1-11.
 
 Martirosyan-Olshansky, K., Areshian, G.E., Avestiyan, P.S., Hayrapetyan, A., 2013.  Masis blur: a late neolithic settlement in the Plain of ararat, Armenia. Backdirt, 2013, 142-146.
 
@@ -1045,6 +1091,8 @@ Ottoni, C., Girdland Flink, L., Evin, A., Geörg, C., De Cupere, B., Van Neer, W
 
 Palumbi, G., and Chataigner, C., 2014. The Kura-Araxes Culture from the Caucasus to Iran, Anatolia and the Levant: Between unity and diversity. A synthesis. Paléorient, 40(2), 247-260.
 
+Palumbi, G., Guliyev, F., Astruc, L., Baudouin, E., Berthon, R., d'Anna, M. B., ... & Alakbarov, V. (2021). New data and perspectives on the early stages of the Neolithic in the Middle Kura River Valley (South Caucasus). The 2017–2019 excavations at Kiçik Tepe, Western Azerbaijan. Archaeological Research in Asia, 27, 100308.
+
 Pappi, C., 2016. Satu Qala: an Assessment of the Stratigraphy of the Site. In: K. Kopanias, and J. MacGinnis (Eds.), The Archaeology of the Kurdistan region of Iraq and adjacent regions. Oxford: Archaeopress, 297-307. 
 
 Parker, B.J., 2010. Networks of interregional interaction during Mesopotamia’s Ubaid period. In: R. A. Carter, and G. Philip (eds.), Beyond the Ubaid: Transformation and Integration in the Late Prehistoric Societies of the Middle East. Chicago: Oriental Institute of the University of Chicago, 339-360.
@@ -1128,6 +1176,12 @@ Regev, J., Finkelstein, I., Adams, M. J., and Boaretto, E., 2014. Wiggle Matched
 Regev, J., Regev, L., Mintz, E. and Boaretto, E., 2017. Radiocarbon Assessment of Early Bronze Arad: The 20 Year Lifespan of Stratum II. Tel Aviv 44(2), pp.165-177.
 
 Regev, J., Uziel, J., Szanton, N., and Boaretto, E., 2017. Absolute dating of the Gihon spring fortifications, Jerusalem. Radiocarbon, 59(4), 1171-1193.
+
+Regev, J., Uziel, J., Lieberman, T., Solomon, A., Gadot, Y., Ben-Ami, D., ... & Boaretto, E., 2020. Radiocarbon dating and microarchaeology untangle the history of Jerusalem's Temple Mount: A view from Wilson's Arch. Plos one, 15(6), e0233307.
+
+Regev, J., Gadot, Y., Roth, H., Uziel, J., Chalaf, O., Ben-Ami, D., ... & Boaretto, E., 2021. Middle bronze age Jerusalem: recalculating its character and chronology. Radiocarbon, 63(3), 853-883.
+
+Rhodes, S., Banning, E. B., & Chazan, M., 2021. Mugharat an-Nachcharini: A specialized sheep-hunting camp reveals high-altitude habitats in the earliest Neolithic of the Central Levant. Plos one, 15(1), e0227276.
 
 Richter, T., Maher, L.A., Garrard, A.N., Edinborough, K., Jones, M.D. and Stock, J.T., 2013. Epipalaeolithic settlement dynamics in southwest Asia: new radiocarbon evidence from the Azraq Basin. Journal of Quaternary Science, 28(5), pp.467-479.
 
