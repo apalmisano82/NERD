@@ -1,4 +1,4 @@
-# NERD (Near East Radiocarbon Dates)
+![logo](https://user-images.githubusercontent.com/13691742/145384742-48eea74d-5efb-4ad6-95d3-2febd23c1d4f.png) # NERD (Near East Radiocarbon Dates)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5767862.svg)](https://doi.org/10.5281/zenodo.5767862)
 
