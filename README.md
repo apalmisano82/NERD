@@ -1,5 +1,5 @@
 # NERD (Near East Radiocarbon Dates)
-![small_logo](https://user-images.githubusercontent.com/13691742/145398062-f1da6202-1972-44ee-a1a5-d6f9a9b79db0.png)
+<img style="float: right;" src="https://user-images.githubusercontent.com/13691742/145398062-f1da6202-1972-44ee-a1a5-d6f9a9b79db0.png">
 
 
 
