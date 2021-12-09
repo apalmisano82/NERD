@@ -27,7 +27,7 @@ There are several caveats related to the present dataset as the original radioca
 
 
 
-## Main Dataset nerd.csv
+## Main Dataset NERD
 
 The main dataset is to be found within /data/nerd.csv. The csv-file is encoded in ‘UTF-8’. The geographic coordinates are stored as unprojected LatLon coordinate system, WGS84 datum. 
 
