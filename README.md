@@ -122,11 +122,11 @@ https://github.com/apalmisano82/NERD
 The archive NERD was collated thanks to the following grants:
 
 * [Changing the Face of The Mediterranean: Land cover and population since the advent of farming.](https://www.plymouth.ac.uk/research/centre-for-research-in-environment-and-society-ceres/changing-the-face-of-the-mediterranean-land-cover-and-population-since-the-advent-of-farming) Leverhulme Trust, grant number:
-RPG-2015-031. Grant holders: Neil Roberts (PI), Andrew Bevan (Co-I), Ralph Fyfe (Co-I), & Stephen Shennan (Co-I). 
+RPG-2015-031. Award holders: Neil Roberts (PI), Andrew Bevan (Co-I), Ralph Fyfe (Co-I), & Stephen Shennan (Co-I). 
 
-* [CLaSS - Climate, Landscape, Settlement and Society: Exploring Human-Environment Interaction in the Ancient Near East.](https://classerc.wordpress.com/the-project/) European Research Council, grant number: 802424. Grant holder: Dan Lawrence (PI).
+* [CLaSS - Climate, Landscape, Settlement and Society: Exploring Human-Environment Interaction in the Ancient Near East.](https://classerc.wordpress.com/the-project/) European Research Council, grant number: 802424. Award holder: Dan Lawrence (PI).
 
-* [Alexander von Humboldt Research Fellowship.](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) Grant holder: Alessio Palmisano.
+* [Alexander von Humboldt Research Fellowship.](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) Award holder: Alessio Palmisano.
 
 
 ![logos](https://user-images.githubusercontent.com/13691742/113167424-00930a80-9244-11eb-86cd-6833705cca42.png)
