@@ -43,7 +43,7 @@ The main dataset is to be found within /data/nerd.csv. The csv-file is encoded i
 |Problems (character)| problems related to the radiocarbon sample (e.g. missing Lab Id, duplicated Lab Ids, etc.)|
 |CRA (numeric)| radiocarbon concentration expressed in years before present (BP)|
 |Error (numeric)| Standard error of radiocarbon date in years|
-|DC13 (numeric)| d13C values of radiocarbon sample|
+|DC13 (numeric)| Isotopic fractionation of stable carbon isotopes Carbon-13|
 |Material (character)| material of the radiocarbon sample|
 |Species (character)| species of the radiocarbon sample|
 |SiteID (numeric)| unique identifier of the site from which the radiocarbon sample has been collected|
