@@ -82,6 +82,8 @@ The literature used to compile the present dataset can be found in the file Refe
 
 * Böhner, U., and Schyle, D., 2006. [Radiocarbon CONTEXT database 2002-2006](http://context-database.uni-koeln.de/)
 
+* Borrell, F., Junno, A., and Barceló, J. A., 2015. [Synchronous environmental and cultural change in the emergence of agricultural economies 10,000 years ago in the Levant] (https://doi.org/10.1371/journal.pone.0134810) PloS one 10(8), e0134810. 
+
 * [CalPal - The Cologne Radiocarbon Calibration & Palaeoclimate Research Package.](https://uni-koeln.academia.edu/BernhardWeninger/CalPal) Developed by Weninger, B., Jöris, O., and Danzeglocke, U.
 
 * Hinz, M., Furholt, M., Müller, J., Raetzel-Fabian, D., Rinne, C.,  Sjögren, K. G., and Wotzka,H. P., 2012. [RADON - Radiocarbon dates online 2012. Central European database of 14C dates for the Neolithic and Early Bronze Age. Journal of Neolithic Archaeology, 14, 1-4](http://radon.ufg.uni-kiel.de/) 
