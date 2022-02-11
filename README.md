@@ -82,7 +82,7 @@ The literature used to compile the present dataset can be found in the file Refe
 
 * Böhner, U., and Schyle, D., 2006. [Radiocarbon CONTEXT database 2002-2006](http://context-database.uni-koeln.de/)
 
-* Borrell, F., Junno, A., and Barceló, J. A., 2015. [Synchronous environmental and cultural change in the emergence of agricultural economies 10,000 years ago in the Levant] (https://doi.org/10.1371/journal.pone.0134810) PloS one 10(8), e0134810. 
+* Borrell, F., Junno, A., and Barceló, J. A., 2015. [Synchronous environmental and cultural change in the emergence of agricultural economies 10,000 years ago in the Levant](https://doi.org/10.1371/journal.pone.0134810)PloS one 10(8), e0134810. 
 
 * [CalPal - The Cologne Radiocarbon Calibration & Palaeoclimate Research Package.](https://uni-koeln.academia.edu/BernhardWeninger/CalPal) Developed by Weninger, B., Jöris, O., and Danzeglocke, U.
 
