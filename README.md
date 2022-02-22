@@ -109,7 +109,7 @@ https://github.com/apalmisano82/NERD
 
 ## Case studies using NERD
 
-* Lawrence, D., Palmisano, A., & Gruchy, M. W. de., 2021. [Collapse and continuity: A multi-proxy reconstruction of settlement organization and population trajectories in the Northern Fertile Crescent during the 4.2kya Rapid Climate Change event](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244871). PLOS ONE, 16(1), e0244871.
+* Lawrence, D., Palmisano, A., & Gruchy, M. W. de., 2021. [Collapse and continuity: A multi-proxy reconstruction of settlement organization and population trajectories in the Northern Fertile Crescent during the 4.2kya Rapid Climate Change event](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244871).<em> PLOS ONE, 16<em/>(1), e0244871.
 
 * Palmisano, A., Woodbridge, J., Roberts, N., Bevan, A., Fyfe, R., Shennan, S., et al. 2019. [Holocene landscape dynamics and long-term population trends in the Levant.](https://doi.org/10.1177%2F0959683619826642) The Holocene, 29(5), 708-727. 
 
