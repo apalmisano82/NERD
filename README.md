@@ -115,7 +115,7 @@ https://github.com/apalmisano82/NERD
 
 * Palmisano, A., Lawrence, D., de Gruchy, M. W., Bevan, A., & Shennan, S., 2021. [Holocene regional population dynamics and climatic trends in the Near East: A first comparison using archaeo-demographic proxies.](https://doi.org/10.1016/j.quascirev.2020.106739) Quaternary Science Reviews, 252, 106739.
 
-* Palmisano, A., Bevan, A., Lawrence, D., & Shennan, S., 2022. [The NERD Dataset: Near East Radiocarbon Dates between 15,000 and 1,500 cal. yr. BP.](https://openarchaeologydata.metajnl.com/articles/10.5334/joad.90/). Journal of Open Archaeology Data, 10 (2).
+* Palmisano, A., Bevan, A., Lawrence, D., & Shennan, S., 2022. [The NERD Dataset: Near East Radiocarbon Dates between 15,000 and 1,500 cal. yr. BP.](https://openarchaeologydata.metajnl.com/articles/10.5334/joad.90/) Journal of Open Archaeology Data, 10 (2).
 
 * Roberts, N., Woodbridge, J., Bevan, A., Palmisano, A., Shennan, S., & Asouti, E. 2018. [Human responses and non-responses to climatic variations during the last Glacial-Interglacial transition in the eastern Mediterranean.](https://doi.org/10.1016/j.quascirev.2017.09.011) Quaternary Science Reviews, 184, 47-67.
 
