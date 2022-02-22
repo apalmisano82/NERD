@@ -119,7 +119,7 @@ https://github.com/apalmisano82/NERD
 
 * Roberts, N., Woodbridge, J., Bevan, A., Palmisano, A., Shennan, S., & Asouti, E. 2018. [Human responses and non-responses to climatic variations during the last Glacial-Interglacial transition in the eastern Mediterranean.](https://doi.org/10.1016/j.quascirev.2017.09.011) <em>Quaternary Science Reviews, 184</em>, 47-67.
 
-* Roberts, N., Woodbridge, J., Palmisano, A., Bevan, A., Fyfe, R., & Shennan, S. 2019. [Mediterranean landscape change during the Holocene: Synthesis, comparison and regional trends in population, land cover and climate.]( https://doi.org/10.1177%2F0959683619826697).<em> The Holocene, 29</em>(5), 923-937.
+* Roberts, N., Woodbridge, J., Palmisano, A., Bevan, A., Fyfe, R., & Shennan, S. 2019. [Mediterranean landscape change during the Holocene: Synthesis, comparison and regional trends in population, land cover and climate.]( https://doi.org/10.1177%2F0959683619826697)<em> The Holocene, 29</em>(5), 923-937.
 
 * Woodbridge, J., Roberts, C. N., Palmisano, A., Bevan, A., Shennan, S., Fyfe, R., et al. 2019. [Pollen-inferred regional vegetation patterns and demographic change in Southern Anatolia through the Holocene.](https://doi.org/10.1177%2F0959683619826635)<em>The Holocene, 29</em>(5),728-741. 
 
