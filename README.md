@@ -115,13 +115,13 @@ https://github.com/apalmisano82/NERD
 
 * Palmisano, A., Lawrence, D., de Gruchy, M. W., Bevan, A., & Shennan, S., 2021. [Holocene regional population dynamics and climatic trends in the Near East: A first comparison using archaeo-demographic proxies.](https://doi.org/10.1016/j.quascirev.2020.106739) <em> Quaternary Science Reviews, 252</em>, 106739.
 
-* Palmisano, A., Bevan, A., Lawrence, D., & Shennan, S., 2022. [The NERD Dataset: Near East Radiocarbon Dates between 15,000 and 1,500 cal. yr. BP.](https://openarchaeologydata.metajnl.com/articles/10.5334/joad.90/) <em> Journal of Open Archaeology Data, 10</em>(2), 1-9.
+* Palmisano, A., Bevan, A., Lawrence, D., & Shennan, S., 2022. [The NERD Dataset: Near East Radiocarbon Dates between 15,000 and 1,500 cal. yr. BP.](https://openarchaeologydata.metajnl.com/articles/10.5334/joad.90/) <em> Journal of Open Archaeology Data, 10</em>(2), pp. 1-9.
 
-* Roberts, N., Woodbridge, J., Bevan, A., Palmisano, A., Shennan, S., & Asouti, E. 2018. [Human responses and non-responses to climatic variations during the last Glacial-Interglacial transition in the eastern Mediterranean.](https://doi.org/10.1016/j.quascirev.2017.09.011) <em>Quaternary Science Reviews, 184</em>, 47-67.
+* Roberts, N., Woodbridge, J., Bevan, A., Palmisano, A., Shennan, S., & Asouti, E. 2018. [Human responses and non-responses to climatic variations during the last Glacial-Interglacial transition in the eastern Mediterranean.](https://doi.org/10.1016/j.quascirev.2017.09.011) <em>Quaternary Science Reviews, 184</em>, pp. 47-67.
 
-* Roberts, N., Woodbridge, J., Palmisano, A., Bevan, A., Fyfe, R., & Shennan, S. 2019. [Mediterranean landscape change during the Holocene: Synthesis, comparison and regional trends in population, land cover and climate.]( https://doi.org/10.1177%2F0959683619826697)<em> The Holocene, 29</em>(5), 923-937.
+* Roberts, N., Woodbridge, J., Palmisano, A., Bevan, A., Fyfe, R., & Shennan, S. 2019. [Mediterranean landscape change during the Holocene: Synthesis, comparison and regional trends in population, land cover and climate.]( https://doi.org/10.1177%2F0959683619826697)<em> The Holocene, 29</em>(5), pp. 923-937.
 
-* Woodbridge, J., Roberts, C. N., Palmisano, A., Bevan, A., Shennan, S., Fyfe, R., et al. 2019. [Pollen-inferred regional vegetation patterns and demographic change in Southern Anatolia through the Holocene.](https://doi.org/10.1177%2F0959683619826635)<em> The Holocene, 29</em>(5),728-741. 
+* Woodbridge, J., Roberts, C. N., Palmisano, A., Bevan, A., Shennan, S., Fyfe, R., et al. 2019. [Pollen-inferred regional vegetation patterns and demographic change in Southern Anatolia through the Holocene.](https://doi.org/10.1177%2F0959683619826635)<em> The Holocene, 29</em>(5), pp. 728-741. 
 
 ## Grants
 
