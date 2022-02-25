@@ -6,6 +6,8 @@
 [![Github All Releases](https://img.shields.io/github/downloads/apalmisano82/NERD/total.svg)](https://github.com/apalmisano82/NERD/releases/)
 [![Github All Releases](https://img.shields.io/github/downloads/apalmisano82/NERD/total.svg)]()
 ![views](https://gpvc.arturio.dev/apalmisano82)
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=apalmisano82/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=apalmisano82/badges)
+
 
 #### Alessio Palmisano, Andrew Bevan, Dan Lawrence & Stephen Shennan 
 
