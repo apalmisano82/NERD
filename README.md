@@ -5,6 +5,7 @@
 [![version](https://img.shields.io/badge/version-4.0-cyan.svg)](https://github.com/apalmisano82/NERD)
 [![Github All Releases](https://img.shields.io/github/downloads/apalmisano82/NERD/total.svg)](https://github.com/apalmisano82/NERD/releases/)
 [![Github All Releases](https://img.shields.io/github/downloads/apalmisano82/NERD/latest/total.svg)]()
+https://img.shields.io/github/downloads/apalmisano82/NERD/total?style=social
 ![views](https://gpvc.arturio.dev/apalmisano82)
 
 
