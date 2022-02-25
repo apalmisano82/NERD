@@ -1,7 +1,7 @@
 
 # NERD (Near East Radiocarbon Dates) <img src="https://user-images.githubusercontent.com/13691742/145416183-a20e9c2e-e834-49b5-a694-504bbd99ccf7.png" align="right" width="200" height="165" />
 
-[![version](https://img.shields.io/badge/devel%20version-0.4.0-lightblue.svg)](https://github.com/apalmisano82/NERD)
+[![version](https://img.shields.io/badge/version-4.0-lightblue.svg)](https://github.com/apalmisano82/NERD)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5767862.svg)](https://doi.org/10.5281/zenodo.5767862)
 
 #### Alessio Palmisano, Andrew Bevan, Dan Lawrence & Stephen Shennan 
