@@ -4,7 +4,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5767862.svg)](https://doi.org/10.5281/zenodo.5767862)
 [![version](https://img.shields.io/badge/version-4.0-cyan.svg)](https://github.com/apalmisano82/NERD)
 [![Github All Releases](https://img.shields.io/github/downloads/apalmisano82/NERD/total.svg)](https://github.com/apalmisano82/NERD/releases/)
-[![Github All Releases](https://img.shields.io/github/downloads/apalmisano82/NERD/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/apalmisano82/NERD/lates/total.svg)]()
 ![views](https://gpvc.arturio.dev/apalmisano82)
 
 
