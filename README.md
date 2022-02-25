@@ -4,7 +4,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5767862.svg)](https://doi.org/10.5281/zenodo.5767862)
 [![version](https://img.shields.io/badge/version-4.0-cyan.svg)](https://github.com/apalmisano82/NERD)
 [![Github All Releases](https://img.shields.io/github/downloads/apalmisano82/NERD/total.svg)](https://github.com/apalmisano82/NERD/releases/)
-[![Github all releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/atom/atom/releases/)
+[![Github all releases](https://img.shields.io/github/downloads/ercrema/nimbleCarbon/total.svg)](https://github.com/ercrema/nimbleCarbon/releases/)
 
 #### Alessio Palmisano, Andrew Bevan, Dan Lawrence & Stephen Shennan 
 
