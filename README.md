@@ -2,8 +2,8 @@
 # NERD (Near East Radiocarbon Dates) <img src="https://user-images.githubusercontent.com/13691742/145416183-a20e9c2e-e834-49b5-a694-504bbd99ccf7.png" align="right" width="200" height="165" />
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5767862.svg)](https://doi.org/10.5281/zenodo.5767862)
-[![version](https://img.shields.io/badge/version-4.0-cyan.svg)](https://github.com/apalmisano82/NERD)
-[![version](https://img.shields.io/github/manifest-json/v/apalmisano82/NERD?color=cyan&logo=4.0&logoColor=%20&style=plastic)
+[![version](https://img.shields.io/badge/version-4.0-cyan.svg)]
+
 
 
 
