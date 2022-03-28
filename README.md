@@ -107,7 +107,7 @@ The NERD dataset is made available under the [Creative Common License CC-BY 4.0]
 [![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
 
 ## How to cite
-Palmisano, A., Bevan, A., Lawrence, D., & Shennan, S., 2021. NERD: Near East Radiocarbon Dates, version 4.0 (8 December 2021): 
+Palmisano, A., Bevan, A., Lawrence, D., & Shennan, S., 2022. NERD: Near East Radiocarbon Dates, version 5.0 (25 March 2022): 
 https://github.com/apalmisano82/NERD
 
 ## Case studies using NERD
