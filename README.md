@@ -90,7 +90,7 @@ The literature used to compile the present dataset can be found in the file Refe
 
 * Flohr, P., Fleitmann, D., Matthews, R., Matthews, W., and Black, S., 2016. [Evidence of resilience to past climate change in Southwest Asia: Early farming communities and the 9.2 and 8.2 ka events.](https://doi.org/10.1016/j.quascirev.2015.06.022)<em> Quaternary Science Reviews 136 </em>, pp. 23-39. 
 
-* Hinz, M., Furholt, M., Müller, J., Raetzel-Fabian, D., Rinne, C.,  Sjögren, K. G., and Wotzka,H. P., 2012. [RADON - Radiocarbon dates online 2012. Central European database of 14C dates for the Neolithic and Early Bronze Age. Journal of Neolithic Archaeology, 14, 1-4](http://radon.ufg.uni-kiel.de/) 
+* Hinz, M., Furholt, M., Müller, J., Raetzel-Fabian, D., Rinne, C.,  Sjögren, K. G., and Wotzka,H. P., 2012. [RADON - Radiocarbon dates online 2012. Central European database of 14C dates for the Neolithic and Early Bronze Age.](http://radon.ufg.uni-kiel.de/)<em> Journal of Neolithic Archaeology, 14</em>, pp. 1-4.
 
 * [IRPA/KIK. Royal Institute for Cultural Heritage web based Radiocarbon database.](http://c14.kikirpa.be/) Van Strydonck, M. and De Roock, E., 2011. Royal Institute for Cultural Heritage web-based radiocarbon database.<em> Radiocarbon, 53</em>(2), pp. 367-370. 
 
