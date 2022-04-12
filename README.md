@@ -84,15 +84,15 @@ The literature used to compile the present dataset can be found in the file Refe
 
 * Böhner, U., and Schyle, D., 2006. [Radiocarbon CONTEXT database 2002-2006](http://context-database.uni-koeln.de/)
 
-* Borrell, F., Junno, A., and Barceló, J. A., 2015. [Synchronous environmental and cultural change in the emergence of agricultural economies 10,000 years ago in the Levant.](https://doi.org/10.1371/journal.pone.0134810) PloS one 10(8), e0134810. 
+* Borrell, F., Junno, A., and Barceló, J. A., 2015. [Synchronous environmental and cultural change in the emergence of agricultural economies 10,000 years ago in the Levant.](https://doi.org/10.1371/journal.pone.0134810)<em> PloS one 10</em>(8), e0134810. 
 
 * [CalPal - The Cologne Radiocarbon Calibration & Palaeoclimate Research Package.](https://uni-koeln.academia.edu/BernhardWeninger/CalPal) Developed by Weninger, B., Jöris, O., and Danzeglocke, U.
 
-* Flohr, P., Fleitmann, D., Matthews, R., Matthews, W., and Black, S., 2016. [Evidence of resilience to past climate change in Southwest Asia: Early farming communities and the 9.2 and 8.2 ka events.](https://doi.org/10.1016/j.quascirev.2015.06.022) Quaternary Science Reviews 136, pp. 23-39. 
+* Flohr, P., Fleitmann, D., Matthews, R., Matthews, W., and Black, S., 2016. [Evidence of resilience to past climate change in Southwest Asia: Early farming communities and the 9.2 and 8.2 ka events.](https://doi.org/10.1016/j.quascirev.2015.06.022)<em> Quaternary Science Reviews 136 </em>, pp. 23-39. 
 
 * Hinz, M., Furholt, M., Müller, J., Raetzel-Fabian, D., Rinne, C.,  Sjögren, K. G., and Wotzka,H. P., 2012. [RADON - Radiocarbon dates online 2012. Central European database of 14C dates for the Neolithic and Early Bronze Age. Journal of Neolithic Archaeology, 14, 1-4](http://radon.ufg.uni-kiel.de/) 
 
-* [IRPA/KIK. Royal Institute for Cultural Heritage web based Radiocarbon database.](http://c14.kikirpa.be/) Van Strydonck, M. and De Roock, E., 2011. Royal Institute for Cultural Heritage web-based radiocarbon database. Radiocarbon, 53(2), pp. 367-370. 
+* [IRPA/KIK. Royal Institute for Cultural Heritage web based Radiocarbon database.](http://c14.kikirpa.be/) Van Strydonck, M. and De Roock, E., 2011. Royal Institute for Cultural Heritage web-based radiocarbon database.<em> Radiocarbon, 53</em>(2), pp. 367-370. 
 
 * [ORAU. Oxford Radiocarbon Accelerator Unit online database.](https://c14.arch.ox.ac.uk/database/db.php) Oxford: University of Oxford.
 
