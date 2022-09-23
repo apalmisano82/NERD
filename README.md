@@ -1,5 +1,5 @@
 
-# NERD (Near East Radiocarbon Dates) <img src="https://user-images.githubusercontent.com/13691742/145416183-a20e9c2e-e834-49b5-a694-504bbd99ccf7.png" align="right" width="200" height="165" />
+# NERD (Near East Radiocarbon Dates) <img src="https://user-images.githubusercontent.com/13691742/145416183-a20e9c2e-e834-49b5-a694-504bbd99ccf7.png" align="right" width="200" height="165" /> 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7107507.svg)](https://doi.org/10.5281/zenodo.7107507)
 [![version](https://img.shields.io/badge/version-6.0-cyan.svg)](https://github.com/apalmisano82/NERD)
